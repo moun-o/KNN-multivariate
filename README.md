@@ -1,8 +1,8 @@
-## KNN K nearest neighbors (multivaried case)
+## KNN K nearest neighbors (multivariate case)
 
 To make it short, KNN algorithm is a supervised classfication algorithm who estimates the output based on the K most similar entries which are called nearest neighbours.
 
-In the multivaried case, we consider many columns and not only one
+In the multivariate case, we consider many columns and not only one
 
 ## How we compute similarity
 
